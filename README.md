@@ -33,7 +33,7 @@ This demo includes:
 - Request throttling
 - Small-scale educational usage only
 
-##Architecture
+## Architecture
 List of Listed Companies
 ↓
 Ticker Cleaning
@@ -50,3 +50,6 @@ Run crawling (i.e., download)
 - No multiprocessing
 - No full SEC index mirroring
 - Limited error recovery
+
+## journal output
+<img width="1154" height="864" alt="image" src="https://github.com/user-attachments/assets/4e50ca50-2166-4906-8c0a-8bcdfaecc1c8" />
